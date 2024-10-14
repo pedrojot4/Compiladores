@@ -1,3 +1,3 @@
 # Compiladores
 
-#João Pedro Silva Alves
+João Pedro Silva Alves
